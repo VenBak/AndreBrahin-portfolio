@@ -1,0 +1,98 @@
+* {
+    border-style: dashed;
+    border-color: black;
+    margin: 2px;
+    border: solid #000;
+    border-width: 1px 1px;
+    box-sizing: border-box;
+}
+
+/* Makes interactive header */
+header{
+    width: 100%;
+    margin: 5px auto;
+    padding: 5px;
+    overflow: auto;
+}
+
+h1 {
+    width: fit-content;
+    display:inline-flex;
+    margin: 5px;
+    padding: 5px;
+}  
+
+.header-container {
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+    float: right;
+}
+
+.nav {
+    display: inline-flex;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Sets perimeters of subtitle */
+
+.display-block {
+    display: block;
+}
+
+.subtitle {
+    height: 100px;
+}
+
+.display-flex {
+    display: flex;
+}
+
+/* Description box block */
+
+.inline-block {
+    display: inline-block;
+}
+
+/* Contents */
+
+.descriptor {
+    width: 300px;
+}
+
+.content {
+}
+
+/* About Me */
+
+.aboutme {
+    height: 300px;
+}
+
+.childabout {
+    
+}
+
+/* Work */
+
+.work {
+    height: 800px;
+}
+
+.childwork {
+    
+}
+
+/* Contact Me */
+
+.contactme {
+    height: 250px;
+}
+
+.childcontact {
+    
+}
