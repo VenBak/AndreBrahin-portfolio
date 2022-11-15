@@ -1,0 +1,250 @@
+* {
+    margin: 2px;
+    box-sizing: border-box;
+    font-family: monospace;
+    font-weight: 600;
+    color: #e0e1dd;
+}
+
+html {
+    width: fit-content;
+    background-color: #0d1b2a;
+}
+
+body {
+    width: 100%;
+}
+
+/* Makes interactive header */
+
+header {
+    margin: 0 auto;
+}
+
+/* Changes related to the Name top left */
+
+h1 {
+    width: fit-content;
+    display:inline-flex;
+    margin: 5px;
+    padding: 1em;
+    background-color: #1b263b;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #415a77;
+    border-radius: 15px;
+    font-size: x-large;
+    font-weight: 600;
+    vertical-align: middle;
+} 
+
+/* Making the dimensions for the profile picture */
+
+.profilepic {
+    overflow: hidden;
+    height: 70px;
+    width: 70px;
+    border-radius: 15px;
+    vertical-align: middle;
+}
+
+/* Puts the ul or header bar with links to the right and adds lines in between */
+
+.header {
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    float: right;
+    background-color: #1b263b;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #415a77;
+    border-radius: 15px;
+    vertical-align: middle;
+    height: 70px;
+}
+
+.nav {
+    border-right: 2px;
+    border-color: #778da9;
+    border-style: solid;
+    width: 99%;
+}
+
+.lastnav {
+    border-right: 2px;
+    border-color: #0d1b2a;
+    width: 99%;
+    padding: 13px;
+}
+
+.none {
+    list-style-type: none;
+}
+
+.nav {
+    display: inline-flex;
+    padding: 1em;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Sets perimeters of subtitle or picture underneath the header */
+
+.display-block {
+    display: block;
+}
+
+.subtitle {
+    height: 62px;
+    margin: 9px;
+    background-color: #1b263b;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.display-flex {
+    display: flex;
+}
+   
+.fit {
+    width: 100%;
+    border-radius: 15px;
+}
+
+/* Descriptors properties or aka bar to the left */
+
+.inline-block {
+    display: inline-block;
+}
+
+.stretch {
+    display: flex;
+    align-items: stretch;
+}
+
+.wholewidth {
+    width: 99%;
+}
+
+.descriptor {
+    width: 300px;
+    background-color: #1b263b;
+    margin: 9px;
+    border-radius: 15px;
+}
+
+.descriptortext {
+    padding:5%;
+    font-size: 4em;
+}
+
+.content {
+    margin: 9px;
+    padding: 1em;
+    background-color: #415a77;
+    border-radius: 15px;
+}
+
+
+/* Sets height of about me section and declares font size */
+
+.aboutme {
+    height: 300px;
+    display: flex;
+    width: 99%;
+}
+
+.text {
+    font-size: 15px;
+}
+
+/* Work */
+
+/* Sets parameters for images to follow */
+
+.contentitem {
+    border-radius: 15px;
+    width: 100%;
+    overflow: hidden;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #778da9;
+}
+
+.img {
+    width: 100%;
+    height: 100%;
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+/* Changes box color when user hovers over a content item */
+
+.img:hover {
+    opacity: 1;
+}
+
+/* Sets height of section and corrects size of boxes */
+
+.work {
+    height: 800px;
+    display: flex;
+    width: 99%;
+}
+
+.ul-work {
+    padding: 0;
+    display: flex;
+}
+
+.medium {
+    height: 49%;
+}
+
+.center {
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wholeheight {
+    height: 99%;
+}
+
+.workitem {
+    width: 530px;
+    height:24%;
+    background-color: gray;
+    border-radius: 15px;
+}
+
+/* Contact Me */
+
+.contactme {
+    height: 250px;
+    display: flex;
+    width: 99%;
+}
+
+.contactlist {
+    width: 99%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.contactitem {
+    height: fit-content;
+    padding: 3px;
+    background-color: gray;
+    border-radius: 15px;
+    padding: 1em;
+}
+
