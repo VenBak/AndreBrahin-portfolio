@@ -104,6 +104,7 @@ main {
 
 .center {
     justify-content: space-around;
+    align-content: space-around;
 }
 
 .wrap {
@@ -111,8 +112,14 @@ main {
     flex-wrap: wrap;
 }
 
+.wholeheight {
+    height: 99%;
+}
+
 .workitem {
-    width
+    width: 530px;
+    height: 100px;
+    
 }
 
 /* Contact Me */
