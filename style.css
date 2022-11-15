@@ -99,11 +99,20 @@ main {
 }
 
 .medium {
-    height: 50%;
+    height: 49%;
 }
 
 .center {
     justify-content: space-around;
+}
+
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.workitem {
+    width
 }
 
 /* Contact Me */
