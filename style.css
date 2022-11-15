@@ -22,11 +22,14 @@ h1 {
     padding: 5px;
 }  
 
-.header-container {
-    list-style-type: none;
+.header{
     margin: 5px;
     padding: 5px;
     float: right;
+}
+
+.none {
+    list-style-type: none;
 }
 
 .nav {
@@ -58,6 +61,15 @@ main {
     display: inline-block;
 }
 
+.stretch {
+    display: flex;
+    align-items: stretch;
+}
+
+.wholewidth {
+    width: 99%;
+}
+
 /* Contents */
 
 .descriptor {
@@ -71,10 +83,8 @@ main {
 
 .aboutme {
     height: 300px;
-}
-
-.childabout {
-    
+    display: flex;
+    width: 99%;
 }
 
 /* Work */
@@ -83,8 +93,17 @@ main {
     height: 800px;
 }
 
-.childwork {
-    
+.ul-work {
+    padding: 0;
+    display: flex;
+}
+
+.medium {
+    height: 50%;
+}
+
+.center {
+    justify-content: space-around;
 }
 
 /* Contact Me */
@@ -93,6 +112,3 @@ main {
     height: 250px;
 }
 
-.childcontact {
-    
-}
