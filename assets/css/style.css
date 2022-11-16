@@ -7,7 +7,7 @@
 }
 
 html {
-    width: fit-content;
+    width:;
     background-color: #0d1b2a;
 }
 
@@ -15,10 +15,13 @@ body {
     width: 100%;
 }
 
+
+
 /* Makes interactive header */
 
 header {
     margin: 0 auto;
+    overflow: hidden;
 }
 
 /* Changes related to the Name top left */
@@ -173,6 +176,30 @@ main {
     border-style: solid;
     border-width: 5px;
     border-color: #778da9;
+} 
+
+/* Sets the look for item tags */
+
+.itemtag {
+    position: relative;
+    display: flex;
+    background-color: #778da9;
+    width: fit-content;
+    top: 28px;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.itemtag2 {
+    width: 530px;
+    height:24%;
+}
+
+.itemtagtext {
+    background-color: #778da9;
+    width:fit-content ;
+    position: relative;
+    margin: 0 auto;
 }
 
 .img {
@@ -180,6 +207,7 @@ main {
     height: 100%;
     opacity: 0.6;
     transition: 0.3s;
+    object-fit: cover;
 }
 
 /* Changes box color when user hovers over a content item */
@@ -201,8 +229,13 @@ main {
     display: flex;
 }
 
+.medium1 {
+    height: 300px;
+}
+
 .medium {
     height: 49%;
+    margin-top: 20px;
 }
 
 .center {
@@ -219,11 +252,20 @@ main {
     height: 99%;
 }
 
+.workitem1 {
+    width: 99%;
+    vertical-align: middle;
+}
+
 .workitem {
     width: 530px;
     height:24%;
-    background-color: gray;
     border-radius: 15px;
+}
+
+.workitemcontent {
+    border-radius: 15px;
+    height: 80%;
 }
 
 /* Contact Me */
@@ -238,12 +280,12 @@ main {
     width: 99%;
     justify-content: space-evenly;
     align-items: center;
+    display: flex;
 }
 
 .contactitem {
     height: fit-content;
     padding: 3px;
-    background-color: gray;
     border-radius: 15px;
     padding: 1em;
 }
