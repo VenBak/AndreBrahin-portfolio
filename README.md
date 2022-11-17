@@ -1,4 +1,4 @@
-## <Your-Project-Title>
+## AndreBrahin-Portfolio
 
 ## Description
 
@@ -9,58 +9,28 @@ Provide a short description explaining the what, why, and how of your project. U
 - What problem does it solve?
 - What did you learn?
 
+This project contains a portfolio website of myself in order for other people to have a platform to get to a little about me and look at the different projects that I have worked on. The motivation behind this project was to make an interactive website which changes format based on its sizing and to go through the learning process of making a fully worked through webpage. The specific problems that it solves is the difficulty certain peeople might have if they want to look into what I have done, and having a portfolio website trumps this difficulty by making myself more available.
+
 ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+In order to use the website you may either use the live website link or access it through right clicking the index.html and open it in your favourite browser. Here is a screenshot of what the website should look like:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![Appearance](./assets/images/Screenshot%202022-11-17%20at%203.00.03%20PM.png)
+![Appearance](./assets/images/Screenshot%202022-11-17%20at%203.00.30%20PM.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+I would like to credit Stack overflow which helped me with some of the issues which I encountered. 100% of the code is mine however I was indeed aided in some minor ways when I encountered some issues.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+https://stackoverflow.com/questions/8846756/how-can-i-resize-an-image-without-stretching
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://stackoverflow.com/questions/4804581/how-can-i-expand-floated-child-divs-height-to-parents-height
+https://stackoverflow.com/questions/27418104/whats-the-difference-between-displayinline-flex-and-displayflex
 
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-
-The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't necessary, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here
