@@ -20,7 +20,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Usage
 
-In order to use the website you may either use the live website link or access it through right clicking the index.html and open it in your favourite browser. Here is a screenshot of what the website should look like:
+In order to use the website you may either use the live website link (https://venbak.github.io/AndreBrahin-portfolio/) or access it through right clicking the index.html and open it in your favourite browser. Here is a screenshot of what the website should look like:
 
 ![Appearance](./assets/images/Screenshot%202022-11-17%20at%203.00.03%20PM.png)
 ![Appearance](./assets/images/Screenshot%202022-11-17%20at%203.00.30%20PM.png)
