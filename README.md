@@ -27,10 +27,29 @@ In order to use the website you may either use the live website link (https://ve
 
 ## Credits
 
-I would like to credit Stack overflow which helped me with some of the issues which I encountered. 100% of the code is mine however I was indeed aided in some minor ways when I encountered some issues.
+I would like to credit Stack overflow which helped me with some of the issues which I encountered. Here are the main sources which deserve credit:
 
 https://stackoverflow.com/questions/8846756/how-can-i-resize-an-image-without-stretching
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://stackoverflow.com/questions/4804581/how-can-i-expand-floated-child-divs-height-to-parents-height
 https://stackoverflow.com/questions/27418104/whats-the-difference-between-displayinline-flex-and-displayflex
+https://coolors.co/palette/0d1b2a-1b263b-415a77-778da9-e0e1dd
 
+Here are the credits for the images:
+zurich
+https://www.pexels.com/fr-fr/photo/ville-ciel-soleil-couchant-eau-8585571/ 
+
+wave:
+https://www.pexels.com/fr-fr/photo/photographie-de-barrel-wave-1298684/ 
+
+led wall
+https://www.pinterest.ch/pin/675258537897148564/
+
+temple:
+https://www.pinterest.ch/pin/924363892245203448/
+
+pastel:
+https://www.wallpaperwarehouse.com/products/puzzle-pale-pastel-105-2009-lee-jofa-wallpaper?variant=39468797755480&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic
+
+calculator:
+https://www.pinterest.ch/pin/247275835782284440/
