@@ -2,13 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 This project contains a portfolio website of myself in order for other people to have a platform to get to a little about me and look at the different projects that I have worked on. The motivation behind this project was to make an interactive website which changes format based on its sizing and to go through the learning process of making a fully worked through webpage. The specific problems that it solves is the difficulty certain peeople might have if they want to look into what I have done, and having a portfolio website trumps this difficulty by making myself more available.
 
 ## Table of Contents (Optional)
