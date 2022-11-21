@@ -6,7 +6,6 @@ This project contains a portfolio website of myself in order for other people to
 
 ## Table of Contents (Optional)
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
